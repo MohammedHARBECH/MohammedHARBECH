@@ -5,7 +5,7 @@
 ## 🛠️ My Skills
 - 📱 **Android**: Kotlin, Jetpack Compose
 - 🌐 **Web**: HTML/CSS, JavaScript
-- 🔥 **Backend**: Firebase, Node.js
+- 🔥 **Backend**: Firebase, mySQL, Oracle, PHP
 
 ## 🚀 My Projects
 - [Task Manager App](https://github.com/yourusername/todo-app) - An Android app with Firebase

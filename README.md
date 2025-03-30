@@ -15,4 +15,4 @@
 - LinkedIn: [My Profile](https://linkedin.com/in/MohammedHARBECH)
 - Email: medharbech20@example.com
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedHARBECH&show_icons=true&theme=radical)

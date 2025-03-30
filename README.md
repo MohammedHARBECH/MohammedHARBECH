@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Mohamed HARBECH! 👋
 
-<!--
-**MohammedHARBECH/MohammedHARBECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android & Web Developer** passionate about building high-performance apps and intuitive interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
+- 📱 **Android**: Kotlin, Jetpack Compose
+- 🌐 **Web**: HTML/CSS, JavaScript
+- 🔥 **Backend**: Firebase, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- [Task Manager App](https://github.com/yourusername/todo-app) - An Android app with Firebase
+- [Personal Portfolio](https://yourusername.github.io) - A responsive website
+
+## 📫 Contact
+- LinkedIn: [My Profile](https://linkedin.com/in/MohammedHARBECH)
+- Email: medharbech20@example.com
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
